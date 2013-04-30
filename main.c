@@ -29,7 +29,8 @@
 #include <Windows.h>
 #include "stopwatch.h"
 
-//hgskldh
+
+//wsgk
 
 static const char* in_filename = "foobar.txt";
 static const char* out_filename = "result.txt";
